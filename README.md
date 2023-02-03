@@ -3,6 +3,7 @@ Example of selenium python usage.
 
 Retrieve all title and description of papers of users in scholar.google.com
 
+## Usage
 ```
 
 if __name__ == '__main__':
